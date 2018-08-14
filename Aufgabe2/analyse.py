@@ -177,6 +177,7 @@ class Analyzer(object):
             bool started as True
         """
         started = True
+        self.commandlines(file_name)
         self.letters(file_name)
         self.lines(file_name)
         self.words(file_name)
@@ -247,4 +248,4 @@ if __name__ == '__main__':
 #     print x
     
     analyze = Analyzer()
-    analyze.commandlines("testing.txt")
+    analyze.start("testing.txt")
