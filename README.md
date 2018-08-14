@@ -1,9 +1,11 @@
 # Übungsaufgaben
 
 Aufgabe 1:
+  
   Tipp Spiel
 
 Aufgabe 2:
+  
   File-Analyzer
       /unterstützt Shell Commands
 
