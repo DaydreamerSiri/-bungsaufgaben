@@ -2,9 +2,10 @@
 
 Aufgabe 1:
   Tipp Spiel
+
 Aufgabe 2:
   File-Analyzer
-      /ünterstützt Shell Commands
+      /unterstützt Shell Commands
       
 Shell Commands für Aufgabe 2:
 [--h] [--verbose] [--version] [--input] [--out] [--clear]
