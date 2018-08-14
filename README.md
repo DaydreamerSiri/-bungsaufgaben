@@ -10,6 +10,7 @@ Aufgabe 2:  File-Analyzer /  unterstützt Shell Commands
   
  
 Shell Commands für Aufgabe 2:
+
 [--h] [--verbose] [--version] [--input] [--out] [--clear]
 
 [--h]: zeigt die Shell Commands Parameter an.
