@@ -1,4 +1,4 @@
-erster Test: 135-Buchstaben
+erster Test: 134-Buchstaben
 zweiter Test: 3-Zeilen
 dritter Test: 24-Woerter
 vierter Test: 3-Das meist gezaehlte Wort
