@@ -6,8 +6,11 @@ Aufgabe 1:
 Aufgabe 2:
   File-Analyzer
       /unterstützt Shell Commands
+
 [incomplete] Aufgabe 3:
+  
   Aufgabe 1 nur Automatisiert // Spieler wird über ein externes Thread gestartet 
+  
 Shell Commands für Aufgabe 2:
 [--h] [--verbose] [--version] [--input] [--out] [--clear]
 
